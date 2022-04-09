@@ -20,9 +20,11 @@ Your deliverables :
 ##### 1. Creating API
 <img src="/APIFetch.PNG" alt="Creating API">
 <br>
+
 ##### 2. Fetching data from API
 <img src="/WhileFetchingData.PNG" alt="Fetching data from API">
 <br>
+
 ##### 3. Displaying required data in Card form using ReactJS
 <img src="/AllDataFetched.PNG" alt="Displaying required data in Card form using ReactJS">
 <br>
