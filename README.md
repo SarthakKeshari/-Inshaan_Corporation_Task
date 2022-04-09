@@ -14,3 +14,14 @@ Your deliverables :
 3. Traverse to the project folder via Terminal and use the following two commands - <br>
     a. <b>npm install</b><br>
     b. <b>npm start</b>
+    
+    
+#### Project Glimpse - 
+1. Creating API
+<img src="/APIFetch.PNG" alt="Creating API">
+
+2. Fetching data from API
+<img src="/WhileFetchingData.PNG" alt="Fetching data from API">
+
+3. Displaying required data in Card form using ReactJS
+<img src="/AllDataFetched.PNG" alt="Displaying required data in Card form using ReactJS">
