@@ -7,6 +7,7 @@ Your deliverables :
 2. Remove duplicates.
 3. Write a simple front end code in react to display those data in a card view.
 
+<br>
 
 #### How to run this project
 1. Download the zip and upzip or clone the repository
@@ -15,7 +16,8 @@ Your deliverables :
     a. <b>npm install</b><br>
     b. <b>npm start</b>
     
-    
+<br>
+
 #### Project Glimpse - 
 ##### 1. Creating API
 <img src="/APIFetch.PNG" alt="Creating API">
